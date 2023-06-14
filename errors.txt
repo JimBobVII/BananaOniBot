@@ -1,0 +1,16 @@
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=71&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e2a9fa0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=99&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e1f1160>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e20a190>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e20a340>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e1f1340>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e1f01c0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e209a90>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
+
+error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /r/grandorder+FGOmemes/comments/?limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe42e1f13a0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16)'))
